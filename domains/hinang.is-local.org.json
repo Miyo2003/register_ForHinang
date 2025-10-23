@@ -1,0 +1,13 @@
+{
+  "description": "My email verification backend",
+  "domain": "is-local.org",
+  "subdomain": "hinang",
+  "owner": {
+    "repo": "https://github.com/Miyo2003/Hinang_back",
+    "email": "edsharclee@gmail.com"
+  },
+  "record": {
+    "CNAME": "https://hinang-back.onrender.com/"
+  },
+  "proxied": false
+}
